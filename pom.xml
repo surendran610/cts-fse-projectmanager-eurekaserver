@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cts.fse.pm</groupId>
-	<artifactId>EurekaServer</artifactId>
+	<artifactId>fse-project-manager-eurekaServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EurekaServer</name>
+	<name>fse-project-manager-eurekaServer</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
