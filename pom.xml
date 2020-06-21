@@ -58,7 +58,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<finalName>fse-project-manager-eurekaServer</finalName>
+					<finalName>fse-project-manager-eurekaserver</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
